@@ -5,7 +5,7 @@ This project aims to analyze bike purchase data using Microsoft Excel. By creati
 
 ## Dashboard Image
 ![Dashboard Image](dashboard.png)
-*Note: Insert your dashboard image here. You can directly embed the image in the README or provide a link to it.*
+
 
 ## Data Sources
 The bike purchase data used in this analysis was obtained from [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) . The dataset includes information on customer demographics, purchase history, and product preferences.
